@@ -18,6 +18,7 @@ const Homepage = () => {
                             <Nav.Link href="#project">Projects</Nav.Link>
                             <Nav.Link href="#education">Education</Nav.Link>
                             <Nav.Link href="#contact">Contact</Nav.Link>
+                            <Nav.Link href="#contact"><a href={require("../components/Sanjay Resume Updated.pdf")} download={'Sanjay Resume.pdf'}>Resume</a></Nav.Link>
                         </Nav>
                     </Container>
                 </Navbar>
